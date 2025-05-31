@@ -25,10 +25,31 @@ The Temple Scroll calendar divides the year into 12 months of fixed 30-30-31 day
 
 The study argues that these consistencies point to an intentional use of the 364-day calendar by Gospel authors, suggesting the survival of a sacred operating system encoded in Scripture itself.
 
+### 📄 License
+
+This repository and its contents are released under the  
+**Creative Commons Attribution-NonCommercial 4.0 International License**  
+([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material  
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit.  
+- **NonCommercial** — You may not use the material for commercial purposes.
+
+
 ## Citation
 
-If citing this work, please reference the PDF directly:  
+If citing this work, please reference the GitHub repository:  
+**[https://github.com/divinetimepiece/the-divine-timepiece](https://github.com/divinetimepiece/the-divine-timepiece)**
+
+Or cite the primary preprint directly:  
 **`the-divine-timepiece-preprint.pdf`**
+
 
 ---
 
