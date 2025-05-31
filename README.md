@@ -50,6 +50,17 @@ If citing this work, please reference the GitHub repository:
 Or cite the primary preprint directly:  
 **`the-divine-timepiece-preprint.pdf`**
 
+### Timestamp Verification
+
+This repository includes a cryptographic timestamp of the preprint, created using [OpenTimestamps](https://opentimestamps.org).  
+To verify that `the-divine-timepiece-preprint.pdf` existed at the time of publication, use the accompanying file:
+
+**`the-divine-timepiece-preprint.ots`**
+
+You can independently verify the timestamp with:
+
+```bash
+ots verify the-divine-timepiece-preprint.ots
 
 ---
 
