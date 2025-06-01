@@ -63,4 +63,4 @@ ots verify the-divine-timepiece-preprint.pdf.ots
 ---
 
 *Originally released on 31 May 2025, with formatting corrections finalised on 1 June 2025.  
-This version is re-timestamped and archived for public verification.*
+This final version is re-timestamped and archived for public verification.*
