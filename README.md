@@ -9,9 +9,11 @@ This repository contains the full preprint of *The Divine Timepiece*, alongside 
 
 ## Contents
 
-- `the-divine-timepiece-preprint.pdf` — Full scholarly paper (26 pages)
-- `/calendars` — Visual reconstructions of the 364-day calendar in PDF format
-- `/images` — Digital artwork and cover assets used across platforms
+- [`the-divine-timepiece-preprint.pdf`](./the-divine-timepiece-preprint.pdf) — Full scholarly paper (26 pages)
+- [`epilogue-the-last-loose-end.md`](./epilogue-the-last-loose-end.md) — Epilogue essay (Markdown version)
+- [`epilogue-the-last-loose-end.pdf`](./epilogue-the-last-loose-end.pdf) — Epilogue essay (printable PDF version)
+- [`/calendars`](./calendars) — Visual reconstructions of the 364-day calendar in PDF format
+- [`/images`](./images) — Digital artwork and cover assets used across platforms
 - *(Further folders to follow as project evolves)*
 
 ## Overview
