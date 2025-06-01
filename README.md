@@ -25,7 +25,19 @@ The Temple Scroll calendar divides the year into 12 months of fixed 30-30-31 day
 
 The study argues that these consistencies point to an intentional use of the 364-day calendar by Gospel authors, suggesting the survival of a sacred operating system encoded in Scripture itself.
 
-### 📄 License
+## 📜 Epilogue: *The Last Loose End*
+
+A companion reflection to the main preprint, exploring a final narrative puzzle:
+
+> If the crucifixion was on a Tuesday, why didn’t the women return to the tomb sooner?
+
+This standalone essay examines the apparent contradiction between **John 19:40** and **Luke 24:1**, and how the reconstructed Temple Scroll calendar not only resolves the timeline — but restores human dignity to the women’s role in the burial. It introduces the “two-stage burial” model: **triage by Nicodemus**, followed by **ceremonial completion by the women**. A final narrative thread, now whole.
+
+- [📄 Read the Epilogue (PDF)](./epilogue-the-last-loose-end.pdf)  
+- [📘 Read the Epilogue (Markdown)](./epilogue-the-last-loose-end.md)
+
+
+## 📄 License
 
 This repository and its contents are released under the  
 **Creative Commons Attribution-NonCommercial 4.0 International License**  
