@@ -53,7 +53,7 @@ Or cite the primary preprint directly:
 ⏱️ **Timestamp Verification**  
 This repository includes a cryptographic timestamp of the preprint, created using [OpenTimestamps](https://opentimestamps.org).  
 To verify that `the-divine-timepiece-preprint.pdf` existed at the time of publication, use the accompanying file:  
-[`the-divine-timepiece-preprint.ots`](./the-divine-timepiece-preprint.ots)
+[`the-divine-timepiece-preprint.pdf.ots`](./the-divine-timepiece-preprint.pdf.ots)
 
 You can independently verify the timestamp with:
 
