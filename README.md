@@ -59,6 +59,7 @@ You can independently verify the timestamp with:
 
 ```bash
 ots verify the-divine-timepiece-preprint.pdf.ots
+
 ---
 
 *Originally released on 31 May 2025, with formatting corrections finalised on 1 June 2025.  
