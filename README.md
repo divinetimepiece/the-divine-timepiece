@@ -58,8 +58,7 @@ To verify that `the-divine-timepiece-preprint.pdf` existed at the time of public
 You can independently verify the timestamp with:
 
 ```bash
-ots verify the-divine-timepiece-preprint.ots
-
+ots verify the-divine-timepiece-preprint.pdf.ots
 ---
 
 *Originally released on 31 May 2025, with formatting corrections finalised on 1 June 2025.  
